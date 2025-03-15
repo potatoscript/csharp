@@ -44,7 +44,7 @@
 
 ---
 
-# Framework Tutorial List
+# Framework_Tutorial_List
 [menu](#potato_csharp)
 
 | Title | Remark|
@@ -58,7 +58,7 @@
 
 ---
 
-# Project List
+# Project_List
 [menu](#potato_csharp)
 
 | Title | Remark|
