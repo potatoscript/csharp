@@ -1,13 +1,13 @@
 # POTATO_Csharp
 
-* [C# Basic](#basic)
-* [C# Framework](#framework)
+* [C# Basic](#basic_menu)
+* [C# Framework](#framework_menu)
 
 ---
 
 # C# BASIC:
 
-#### Basic [home](#potato_csharp)
+#### Basic [menu](#potato_csharp)
 
 | Title    | Remark  |
 | --------------| -----|
@@ -47,8 +47,7 @@
 
 # C# Framework Tutorial List:
 
-#### Framework
-[home](#potato_csharp)
+#### Framework  [menu](#potato_csharp)
 
 | Title                                           | Remark                                                                                                                                                                                   |
 | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
