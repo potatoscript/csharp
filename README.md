@@ -1,28 +1,13 @@
 # POTATO_Csharp
 
 * [C# Basic](#basic)
-
-
-
-
-
-
-# C# Framework Tutorial List:
-
-| Title                                           | Remark                                                                                                                                                                                   |
-| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [WPF (Windows Presentation Foundation)](https://github.com/potatoscript/csharp.wpf) | This tutorial covers the essentials of building desktop applications using WPF, focusing on UI components, data binding, commands, and MVVM (Model-View-ViewModel) architecture. Ideal for developers transitioning from WinForms to WPF. |
-| [ASP.NET MVC](https://github.com/potatoscript/asp.net.mvc) | Learn to build dynamic web applications using ASP.NET MVC, focusing on model binding, controllers, views, and routing. This tutorial is designed for those who are looking to implement the MVC architecture in a .NET web application. |
-| [ASP.NET Core MVC](https://github.com/potatoscript/asp.net.core.mvc) | ASP.NET Core MVC tutorial for building modern web applications with cross-platform support. This guide covers dependency injection, middleware, and RESTful API development using MVC in ASP.NET Core. |
-| [ASP.NET 5](https://github.com/potatoscript/asp.net.5) | A detailed guide to developing applications with ASP.NET 5, which is the foundation for modern web APIs and microservices. This tutorial focuses on building scalable and high-performance web applications. |
-| [ASP.NET Web Forms](https://github.com/potatoscript/asp.net.webform) | A comprehensive guide for developers working with ASP.NET Web Forms. Focuses on page-based development and event-driven programming for building dynamic web applications. Ideal for legacy applications. |
-| [ASP.NET API](https://github.com/potatoscript/asp.net.api) | This tutorial provides an introduction to creating RESTful APIs using ASP.NET. It covers best practices in routing, controllers, and API versioning to build robust and maintainable web services. |
+* [C# Framework](#framework)
 
 ---
 
 # C# BASIC:
-### basic
-[home](#potato_csharp)
+
+#### Basic [home](#potato_csharp)
 
 | Title    | Remark  |
 | --------------| -----|
@@ -56,3 +41,24 @@
 | [Structs](https://github.com/potatoscript/csharp/wiki/Structs)|   |
 | [TabPage](https://github.com/potatoscript/csharp/wiki/TabPage)|   |
 | [TextBox](https://github.com/potatoscript/csharp/wiki/TextBox)|   |
+
+
+---
+
+# C# Framework Tutorial List:
+
+#### Framework
+[home](#potato_csharp)
+
+| Title                                           | Remark                                                                                                                                                                                   |
+| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [WPF (Windows Presentation Foundation)](https://github.com/potatoscript/csharp.wpf) | This tutorial covers the essentials of building desktop applications using WPF, focusing on UI components, data binding, commands, and MVVM (Model-View-ViewModel) architecture. Ideal for developers transitioning from WinForms to WPF. |
+| [ASP.NET MVC](https://github.com/potatoscript/asp.net.mvc) | Learn to build dynamic web applications using ASP.NET MVC, focusing on model binding, controllers, views, and routing. This tutorial is designed for those who are looking to implement the MVC architecture in a .NET web application. |
+| [ASP.NET Core MVC](https://github.com/potatoscript/asp.net.core.mvc) | ASP.NET Core MVC tutorial for building modern web applications with cross-platform support. This guide covers dependency injection, middleware, and RESTful API development using MVC in ASP.NET Core. |
+| [ASP.NET 5](https://github.com/potatoscript/asp.net.5) | A detailed guide to developing applications with ASP.NET 5, which is the foundation for modern web APIs and microservices. This tutorial focuses on building scalable and high-performance web applications. |
+| [ASP.NET Web Forms](https://github.com/potatoscript/asp.net.webform) | A comprehensive guide for developers working with ASP.NET Web Forms. Focuses on page-based development and event-driven programming for building dynamic web applications. Ideal for legacy applications. |
+| [ASP.NET API](https://github.com/potatoscript/asp.net.api) | This tutorial provides an introduction to creating RESTful APIs using ASP.NET. It covers best practices in routing, controllers, and API versioning to build robust and maintainable web services. |
+
+---
+
+
