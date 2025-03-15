@@ -1,3 +1,12 @@
+# POTATO_Csharp
+
+* [C# Basic](#basic)
+
+
+
+
+
+
 # C# Framework Tutorial List:
 
 | Title                                           | Remark                                                                                                                                                                                   |
@@ -12,6 +21,9 @@
 ---
 
 # C# BASIC:
+### basic
+[home](#potato_csharp)
+
 | Title    | Remark  |
 | --------------| -----|
 | [Array](https://github.com/potatoscript/csharp/wiki/Array)|  |
