@@ -69,4 +69,4 @@
 
 | Title | Remark|
 | ------------------- | --------------------------- |
-| [ConvertImageToBase64](https://github.com/potatoscript/ConvertImageToBase64.git) | Convert Image from png to Base64 format |
+| [ConvertImageToBase64](https://github.com/potatoscript/ConvertImageToBase64.git) | Simple C# WPF application that converts a PNG image to a Base64 string. |
