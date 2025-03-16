@@ -153,9 +153,10 @@
 # Project_List
 [menu](#potato_csharp)
 
-| Title | Remark|
-| ------------------- | --------------------------- |
+| Title                      | Remark                                                                 |
+| -------------------------- | ---------------------------------------------------------------------- |
 | [ConvertImageToBase64](https://github.com/potatoscript/ConvertImageToBase64.git) | Simple C# WPF application that converts a PNG image to a Base64 string. |
+| [PotatoMenuApp](https://github.com/potatoscript/potatomenuapp) | C# WPF application tutorial for creating a recipe manager with a menu bar and dynamic content display. |
 
 
 ---
